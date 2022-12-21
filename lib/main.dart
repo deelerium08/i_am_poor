@@ -12,7 +12,8 @@ void main() {
         ),
         body: const Center(
           child: Image(
-            image: AssetImage('sammy-man-looking-into-an-empty-wallet.png'),
+            image:
+                AssetImage('images/sammy-man-looking-into-an-empty-wallet.png'),
           ),
         ),
       ),
